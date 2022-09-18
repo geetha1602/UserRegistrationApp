@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qG8ddiChJ1V2dJblhNbS3nfLDL2JmsdIMfTBXR/8E8lYCogLV4fjGrCmA+Jh29bdnq7UH8RZ4jQPm9JriAeOzw==",
+  "dgSpecHash": "jFtPrfVfuxIuEARSwZuDqY3OeTsc7qzGIB+X7u64IpH9OTGUsg/UY79rdxd1+rTmLJS6d/bsyr/C3HHp3Q3kYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\UserRegistrationWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\RegistrationAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Geetha\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Geetha\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

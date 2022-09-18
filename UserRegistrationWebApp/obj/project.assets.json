@@ -9991,9 +9991,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\UserRegistrationWebApp.csproj",
-      "projectName": "UserRegistrationWebApp",
-      "projectPath": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\UserRegistrationWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\RegistrationAssignment.csproj",
+      "projectName": "RegistrationAssignment",
+      "projectPath": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\RegistrationAssignment.csproj",
       "packagesPath": "C:\\Users\\Geetha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Geetha\\source\\repos\\UserRegistrationWebApp\\UserRegistrationWebApp\\obj\\",
       "projectStyle": "PackageReference",
